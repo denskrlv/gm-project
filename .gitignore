@@ -2,4 +2,4 @@ __pycache__/
 *.egg-info/
 .DS_Store
 .venv
-glide-text2im/glide-text2im/notebooks/glide_model_cache
+glide-text2im/notebooks/glide_model_cache/
